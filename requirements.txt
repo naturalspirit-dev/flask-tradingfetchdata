@@ -1,0 +1,16 @@
+Flask
+gunicorn
+beautifulsoup4
+#concurrent.futures
+datetime
+psycopg2
+Flask-SQLAlchemy
+SQLAlchemy
+python-dotenv
+requests
+sec_api
+pandas
+# shutil
+yfinance
+xlsxwriter
+openpyxl
